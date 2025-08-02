@@ -1,5 +1,5 @@
 // Set the target date and time: August 2, 2025 at 6:00 PM (18:00)
-const targetDate = new Date('2025-08-02T18:00:00').getTime();
+const targetDate = new Date('2025-08-02T19:00:00').getTime();
 
 // Get DOM elements
 const daysElement = document.getElementById('days');
